@@ -1,11 +1,13 @@
-<div align="center">
+# RAISE Pakistan Foundation — Website
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+This repository contains the Next.js + TypeScript + Tailwind starter scaffold for the RAISE Pakistan Foundation website.
 
-  <h1>Built with AI Studio</h2>
+- Color palette: primary #111111, accent #D62828
+- Image-free (SVG/CSS placeholders)
+- Pages: Home, About, Programs, Projects, Gallery, Volunteer, Donate, Team, Contact, News
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+Run locally:
+1. npm install
+2. npm run dev
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+Replace or extend content as needed.

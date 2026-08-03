@@ -1,0 +1,6 @@
+{
+  "name": "RAISE Pakistan Foundation",
+  "description": "Official website for RAISE Pakistan Foundation featuring Home, About, Programs, Projects, Gallery, Volunteer, Donate, Team, Contact, and News.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
